@@ -1,0 +1,15 @@
+{
+  "sa_price_change": "Cambio de precio (%)",
+  "sa_price": "Precio",
+  "sa_new_notice": "Nueva alerta",
+  "sa_notifications": "Alertas",
+  "sa_comment": "Comentario",
+  "sa_comment_notify": "Comentario para alerta ...",
+  "sa_add_notice": "Crear alerta",
+  "sa_error_duplicate": "Esta alerta ya existe",
+  "sa_error_no_connection": "Por favor revise su conexion a internet",
+  "sa_error_unexpected": "Hubo un error, inténtelo de nuevo más tarde",
+  "sa_error_initialization": "Esta función no está disponible",
+  "sa_error_max_count": "Se alcanzó el límite del recuento de alertas",
+  "sa_error_input": "Valor incorrecto"
+}

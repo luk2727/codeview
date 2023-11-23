@@ -1,0 +1,15 @@
+{
+  "sa_price_change": "ការផ្លាស់ប្តូរតម្លៃ (%)",
+  "sa_price": "តមលៃ",
+  "sa_new_notice": "ការដាស់តឿនថ្មី",
+  "sa_notifications": "ការដាស់តឿន",
+  "sa_comment": "អធិប្បាយ",
+  "sa_comment_notify": "មតិយោបល់សម្រាប់ការដាស់តឿន ...",
+  "sa_add_notice": "បង្កើតការដាស់តឿន",
+  "sa_error_duplicate": "ការដាស់តឿននេះមានរួចហើយ",
+  "sa_error_no_connection": "សូមពិនិត្យមើលការភ្ជាប់អ៊ីនធឺណិតរបស់អ្នក",
+  "sa_error_unexpected": "មានកំហុសមួយព្យាយាមម្តងទៀតនៅពេលក្រោយ",
+  "sa_error_initialization": "មុខងារនេះមិនមានទេ",
+  "sa_error_max_count": "ដែនកំណត់នៃការដាស់តឿនត្រូវបានឈានដល់",
+  "sa_error_input": "តម្លៃមិនត្រឹមត្រូវ"
+}

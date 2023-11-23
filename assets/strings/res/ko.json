@@ -1,0 +1,15 @@
+{
+  "sa_price_change": "가격 변경 (%)",
+  "sa_price": "가격",
+  "sa_new_notice": "새로운 경보",
+  "sa_notifications": "알림",
+  "sa_comment": "논평",
+  "sa_comment_notify": "경고에 대한 의견 ...",
+  "sa_add_notice": "경고를 만듭니다",
+  "sa_error_duplicate": "이 경고는 이미 존재합니다",
+  "sa_error_no_connection": "인터넷 연결을 확인하십시오",
+  "sa_error_unexpected": "오류가 있었는데 나중에 다시 시도하십시오",
+  "sa_error_initialization": "이 기능은 사용할 수 없습니다",
+  "sa_error_max_count": "경고 수의 한계에 도달했습니다",
+  "sa_error_input": "잘못된 값"
+}

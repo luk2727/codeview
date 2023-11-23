@@ -1,0 +1,15 @@
+{
+  "sa_price_change": "价格变动（％）",
+  "sa_price": "价格",
+  "sa_new_notice": "新警报",
+  "sa_notifications": "警报",
+  "sa_comment": "评论",
+  "sa_comment_notify": "评论警报...",
+  "sa_add_notice": "创建警报",
+  "sa_error_duplicate": "这个警报已经存在",
+  "sa_error_no_connection": "请检查您的互联网连接",
+  "sa_error_unexpected": "有错误，稍后再试",
+  "sa_error_initialization": "此功能不可用",
+  "sa_error_max_count": "达到了警报数的限制",
+  "sa_error_input": "不正确的值"
+}

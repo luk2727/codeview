@@ -1,0 +1,15 @@
+{
+  "sa_price_change": "Fiyat Değişimi (%)",
+  "sa_price": "Fiyat",
+  "sa_new_notice": "Yeni Uyarı",
+  "sa_notifications": "Uyarı",
+  "sa_comment": "Yorum",
+  "sa_comment_notify": "Uyarı için yorum ...",
+  "sa_add_notice": "Uyarı Oluştur",
+  "sa_error_duplicate": "Bu uyarı zaten var",
+  "sa_error_no_connection": "Lütfen İnternet bağlantınızı kontrol edin",
+  "sa_error_unexpected": "Bir hata vardı, daha sonra tekrar deneyin",
+  "sa_error_initialization": "Bu işlev mevcut değil",
+  "sa_error_max_count": "Uyarı sayısının sınırına ulaşıldı",
+  "sa_error_input": "Yanlış değer"
+}

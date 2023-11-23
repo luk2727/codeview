@@ -1,0 +1,15 @@
+{
+  "sa_price_change": "Thay đổi giá (%)",
+  "sa_price": "Giá",
+  "sa_new_notice": "Cảnh báo mới",
+  "sa_notifications": "Cảnh báo",
+  "sa_comment": "Bình luận",
+  "sa_comment_notify": "Nhận xét cho cảnh báo ...",
+  "sa_add_notice": "Tạo cảnh báo",
+  "sa_error_duplicate": "Cảnh báo này đã tồn tại",
+  "sa_error_no_connection": "Xin vui lòng kiểm tra kết nối Internet của bạn",
+  "sa_error_unexpected": "Có một lỗi, hãy thử lại sau",
+  "sa_error_initialization": "Chức năng này không có sẵn",
+  "sa_error_max_count": "Giới hạn của số lượng cảnh báo đã đạt được",
+  "sa_error_input": "Giá trị không chính xác"
+}

@@ -1,0 +1,15 @@
+{
+  "sa_price_change": "Prisförändring (%)",
+  "sa_price": "Pris",
+  "sa_new_notice": "Ny varning",
+  "sa_notifications": "Varningar",
+  "sa_comment": "Kommentar",
+  "sa_comment_notify": "Kommentar för varning ...",
+  "sa_add_notice": "Skapa varning",
+  "sa_error_duplicate": "Denna varning finns redan",
+  "sa_error_no_connection": "Kontrollera din internetanslutning",
+  "sa_error_unexpected": "Det var ett fel, försök igen senare",
+  "sa_error_initialization": "Denna funktion är inte tillgänglig",
+  "sa_error_max_count": "Gränsen för varningens räkning nåddes",
+  "sa_error_input": "Fel värde"
+}

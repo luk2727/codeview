@@ -1,0 +1,15 @@
+{
+  "sa_price_change": "Prisendring (%)",
+  "sa_price": "Pris",
+  "sa_new_notice": "Nytt varsel",
+  "sa_notifications": "Varsler",
+  "sa_comment": "Kommentar",
+  "sa_comment_notify": "Kommentar for våken ...",
+  "sa_add_notice": "Opprett varsel",
+  "sa_error_duplicate": "Dette varselet eksisterer allerede",
+  "sa_error_no_connection": "Vennligst sjekk internettforbindelsen din",
+  "sa_error_unexpected": "Det var en feil, prøv igjen senere",
+  "sa_error_initialization": "Denne funksjonen er ikke tilgjengelig",
+  "sa_error_max_count": "Grensen for antall varsler ble nådd",
+  "sa_error_input": "Feil verdi"
+}

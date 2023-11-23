@@ -1,0 +1,15 @@
+{
+  "sa_price_change": "価格の変化（％）",
+  "sa_price": "価格",
+  "sa_new_notice": "新しいアラート",
+  "sa_notifications": "アラート",
+  "sa_comment": "コメント",
+  "sa_comment_notify": "アラートへのコメント...",
+  "sa_add_notice": "アラートを作成します",
+  "sa_error_duplicate": "このアラートはすでに存在します",
+  "sa_error_no_connection": "インターネット接続を確認してください",
+  "sa_error_unexpected": "エラーがありました。後でもう一度やり直してください",
+  "sa_error_initialization": "この関数は利用できません",
+  "sa_error_max_count": "アラート数の制限に達しました",
+  "sa_error_input": "間違った値"
+}

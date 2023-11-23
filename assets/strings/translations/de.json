@@ -1,0 +1,15 @@
+{
+  "sa_price_change": "Preisänderung (%)",
+  "sa_price": "Preis",
+  "sa_new_notice": "Neue Warnung",
+  "sa_notifications": "Warnungen",
+  "sa_comment": "Kommentar",
+  "sa_comment_notify": "Kommentar für warnung...",
+  "sa_add_notice": "Warnung erstellen",
+  "sa_error_duplicate": "Dieser Alarm existiert bereits",
+  "sa_error_no_connection": "Bitte überprüfe deine Internetverbindung",
+  "sa_error_unexpected": "Es gab einen Fehler, versuchen Sie es später erneut",
+  "sa_error_initialization": "Diese Funktion ist nicht verfügbar",
+  "sa_error_max_count": "Die Grenze der Warnungszahl wurde erreicht",
+  "sa_error_input": "Falscher Wert"
+}

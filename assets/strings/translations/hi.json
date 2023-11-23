@@ -1,0 +1,15 @@
+{
+  "sa_price_change": "मूल्य परिवर्तन (%)",
+  "sa_price": "कीमत",
+  "sa_new_notice": "नया अलर्ट",
+  "sa_notifications": "अलर्ट",
+  "sa_comment": "टिप्पणी",
+  "sa_comment_notify": "अलर्ट के लिए टिप्पणी ...",
+  "sa_add_notice": "अलर्ट बनाएं",
+  "sa_error_duplicate": "यह अलर्ट पहले से मौजूद है",
+  "sa_error_no_connection": "कृपया अपने इंटरनेट कनेक्शन की जाँच करें",
+  "sa_error_unexpected": "एक त्रुटि थी, बाद में फिर से प्रयास करें",
+  "sa_error_initialization": "यह फ़ंक्शन उपलब्ध नहीं है",
+  "sa_error_max_count": "अलर्ट की गिनती की सीमा तक पहुंच गई थी",
+  "sa_error_input": "गलत मूल्य"
+}

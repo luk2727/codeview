@@ -1,0 +1,15 @@
+{
+  "sa_price_change": "Cambio di prezzo (%)",
+  "sa_price": "Prezzo",
+  "sa_new_notice": "Nuovo allarme",
+  "sa_notifications": "Avvisi",
+  "sa_comment": "Commento",
+  "sa_comment_notify": "Commento per avviso ...",
+  "sa_add_notice": "Crea avviso",
+  "sa_error_duplicate": "Questo avviso esiste già",
+  "sa_error_no_connection": "Per favore controlla la tua connessione Internet",
+  "sa_error_unexpected": "C'è stato un errore, riprova più tardi",
+  "sa_error_initialization": "Questa funzione non è disponibile",
+  "sa_error_max_count": "È stato raggiunto il limite del conteggio degli avvisi",
+  "sa_error_input": "Valore errato"
+}

@@ -1,0 +1,15 @@
+{
+  "sa_price_change": "Zmiana ceny (%)",
+  "sa_price": "Cena",
+  "sa_new_notice": "Nowy alert",
+  "sa_notifications": "Alerty",
+  "sa_comment": "Komentarz",
+  "sa_comment_notify": "Komentarz do alertu ...",
+  "sa_add_notice": "Utwórz alert",
+  "sa_error_duplicate": "Ten alert już istnieje",
+  "sa_error_no_connection": "Proszę sprawdzić swoje połączenie z internetem",
+  "sa_error_unexpected": "Wystąpił błąd, spróbuj ponownie później",
+  "sa_error_initialization": "Ta funkcja nie jest dostępna",
+  "sa_error_max_count": "Osiągnięto granicę liczby alertów",
+  "sa_error_input": "Nieprawidłowa wartość"
+}

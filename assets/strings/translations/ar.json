@@ -1,0 +1,15 @@
+{
+  "sa_price_change": "تغيير الأسعار (٪)",
+  "sa_price": "سعر",
+  "sa_new_notice": "تنبيه جديد",
+  "sa_notifications": "تنبيهات",
+  "sa_comment": "تعليق",
+  "sa_comment_notify": "تعليق للتنبيه ...",
+  "sa_add_notice": "إنشاء تنبيه",
+  "sa_error_duplicate": "هذا التنبيه موجود بالفعل",
+  "sa_error_no_connection": "الرجاء التحقق من اتصال الانترنت الخاص بك",
+  "sa_error_unexpected": "كان هناك خطأ ، حاول مرة أخرى لاحقًا",
+  "sa_error_initialization": "هذه الوظيفة غير متوفرة",
+  "sa_error_max_count": "تم الوصول إلى الحد من عدد التنبيهات",
+  "sa_error_input": "قيمة غير صحيحة"
+}

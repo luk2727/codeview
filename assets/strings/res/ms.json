@@ -1,0 +1,15 @@
+{
+  "sa_price_change": "Perubahan Harga (%)",
+  "sa_price": "Harga",
+  "sa_new_notice": "Makluman baru",
+  "sa_notifications": "Makluman",
+  "sa_comment": "Komen",
+  "sa_comment_notify": "Komen untuk berjaga -jaga ...",
+  "sa_add_notice": "Buat amaran",
+  "sa_error_duplicate": "Amaran ini sudah ada",
+  "sa_error_no_connection": "Sila periksa sambungan internet anda",
+  "sa_error_unexpected": "Ada kesalahan, cuba lagi kemudian",
+  "sa_error_initialization": "Fungsi ini tidak tersedia",
+  "sa_error_max_count": "Had kiraan peringatan dicapai",
+  "sa_error_input": "Nilai yang tidak betul"
+}

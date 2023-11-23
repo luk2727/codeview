@@ -1,0 +1,15 @@
+{
+  "sa_price_change": "تغییر قیمت (٪)",
+  "sa_price": "قیمت",
+  "sa_new_notice": "هشدار جدید",
+  "sa_notifications": "هشدارها",
+  "sa_comment": "اظهار نظر",
+  "sa_comment_notify": "نظر برای هشدار ...",
+  "sa_add_notice": "هشدار ایجاد کنید",
+  "sa_error_duplicate": "این هشدار از قبل وجود دارد",
+  "sa_error_no_connection": "لطفا اتصال اینترنت خود را بررسی کنید",
+  "sa_error_unexpected": "خطایی رخ داد ، بعداً دوباره امتحان کنید",
+  "sa_error_initialization": "این عملکرد در دسترس نیست",
+  "sa_error_max_count": "به حد تعداد هشدارها رسید",
+  "sa_error_input": "مقدار نادرست"
+}

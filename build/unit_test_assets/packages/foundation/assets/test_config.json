@@ -1,0 +1,51 @@
+{
+    "server_url": "https://test.server.url",
+    "default_pair": {
+        "id": 1,
+        "uri": "EURUSD",
+        "title": "EUR/USD",
+        "digits": 100000,
+        "up": "EUR",
+        "down": "USD",
+        "holiday_active": false
+    },
+    "error_pair": {
+        "id": 1,
+        "uri": "EURUSD",
+        "title": "EUR/USD",
+        "digits": "100000",
+        "up": "EUR",
+        "down": "USD",
+        "holiday_active": false
+    },
+    "pairs": [
+        {
+            "id": 1,
+            "uri": "EURUSD",
+            "title": "EUR/USD",
+            "digits": 100000,
+            "up": "EUR",
+            "down": "USD",
+            "holiday_active": false  
+        },
+        {
+            "id": 4,
+            "uri": "GBPUSD",
+            "title": "GBP/USD",
+            "digits": 100000,
+            "up": "GBP",
+            "down": "USD",
+            "holiday_active": false
+        },
+        {
+            "id": 30,
+            "uri": "BTCUSD",
+            "title": "Bitcoin",
+            "digits": 100,
+            "pipValue": 0.1,
+            "up": "Bitcoin",
+            "down": "USD",
+            "holiday_active": true
+        }
+    ]
+}

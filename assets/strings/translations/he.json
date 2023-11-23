@@ -1,0 +1,15 @@
+{
+  "sa_price_change": "שינוי מחיר (%)",
+  "sa_price": "מחיר",
+  "sa_new_notice": "התראה חדשה",
+  "sa_notifications": "התראות",
+  "sa_comment": "תגובה",
+  "sa_comment_notify": "תגובה לכוננות ...",
+  "sa_add_notice": "צור התראה",
+  "sa_error_duplicate": "התראה זו כבר קיימת",
+  "sa_error_no_connection": "אנא בדוק את חיבור האינטרנט שלך",
+  "sa_error_unexpected": "הייתה שגיאה, נסה שוב מאוחר יותר",
+  "sa_error_initialization": "פונקציה זו אינה זמינה",
+  "sa_error_max_count": "הושגה גבול ספירת ההתראות",
+  "sa_error_input": "ערך שגוי"
+}

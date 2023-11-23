@@ -1,0 +1,8 @@
+{
+    "dependencies": [
+        {
+            "name": "widgets",
+            "path": "../../fg_libs/widgets"
+        }
+    ]
+}

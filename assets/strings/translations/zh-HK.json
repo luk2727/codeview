@@ -1,0 +1,15 @@
+{
+  "sa_price_change": "價格變動（％）",
+  "sa_price": "價格",
+  "sa_new_notice": "新警報",
+  "sa_notifications": "警報",
+  "sa_comment": "評論",
+  "sa_comment_notify": "評論警報...",
+  "sa_add_notice": "創建警報",
+  "sa_error_duplicate": "這個警報已經存在",
+  "sa_error_no_connection": "請檢查您的互聯網連接",
+  "sa_error_unexpected": "有錯誤，稍後再試",
+  "sa_error_initialization": "此功能不可用",
+  "sa_error_max_count": "達到了警報數的限制",
+  "sa_error_input": "不正确的值"
+}

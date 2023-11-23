@@ -1,0 +1,15 @@
+{
+  "sa_price_change": "Зміна ціни (%)",
+  "sa_price": "Ціна",
+  "sa_new_notice": "Нове сповіщення",
+  "sa_notifications": "Сповіщення",
+  "sa_comment": "Коментар",
+  "sa_comment_notify": "Коментар сповіщення ...",
+  "sa_add_notice": "Створити сповіщення",
+  "sa_error_duplicate": "Таке сповіщення вже існує",
+  "sa_error_no_connection": "Будь ласка, перевірте підключення до Інтернету",
+  "sa_error_unexpected": "Виникла помилка. Будь ласка, спробуйте пізніше.",
+  "sa_error_initialization": "Ця функція недоступна",
+  "sa_error_max_count": "Досягнута максимальна кількість сповіщень",
+  "sa_error_input": "Неправильне значення"
+}
